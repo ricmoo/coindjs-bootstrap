@@ -1,0 +1,22 @@
+{
+  "name": "coindjs-bootstrap",
+  "version": "0.0.1",
+  "description": "Bootstrap bitcoin-based systems using IRC or DNS seeds.",
+  "dependencies": {
+    "bs58check": "1.0.5",
+    "irc": "0.3.12"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bitcoin",
+    "namecoin",
+    "bootstrap",
+    "dns",
+    "seed"
+  ],
+  "author": "Richard Moore <me@ricmoo.com>",
+  "license": "MIT"
+}
