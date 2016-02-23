@@ -17,6 +17,10 @@
     "dns",
     "seed"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ricmoo/coindjs-bootstrap.git"
+  },
   "author": "Richard Moore <me@ricmoo.com>",
   "license": "MIT"
 }
